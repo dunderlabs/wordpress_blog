@@ -1,0 +1,8 @@
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:29 .
+drwxr-xr-x    9 indacode   indacode         4096 Nov  9 05:29 ..
+-rw-r--r--    1 indacode   indacode         2195 Nov  9 05:29 back-compat.php
+-rw-r--r--    1 indacode   indacode         4492 Nov  9 05:29 custom-header.php
+-rw-r--r--    1 indacode   indacode         5223 Nov  9 05:29 customizer.php
+-rw-r--r--    1 indacode   indacode        15226 Nov  9 05:29 featured-content.php
+-rw-r--r--    1 indacode   indacode         6195 Nov  9 05:29 template-tags.php
+-rw-r--r--    1 indacode   indacode         9824 Nov  9 05:29 widgets.php

@@ -1,0 +1,4 @@
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:37 .
+drwxr-xr-x   22 indacode   indacode         4096 Nov  9 05:38 ..
+-rw-r--r--    1 indacode   indacode         3275 Nov  9 05:37 plugin.js
+-rw-r--r--    1 indacode   indacode         1540 Nov  9 05:38 plugin.min.js

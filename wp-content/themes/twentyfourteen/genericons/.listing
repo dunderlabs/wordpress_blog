@@ -1,0 +1,9 @@
+drwxr-xr-x    3 indacode   indacode         4096 Nov  9 05:29 .
+drwxr-xr-x    9 indacode   indacode         4096 Nov  9 05:29 ..
+-rw-r--r--    1 indacode   indacode         1424 Nov  9 05:29 COPYING.txt
+-rw-r--r--    1 indacode   indacode        18212 Nov  9 05:29 Genericons-Regular.otf
+-rw-r--r--    1 indacode   indacode        18092 Nov  9 05:29 LICENSE.txt
+-rw-r--r--    1 indacode   indacode         5896 Nov  9 05:29 README.txt
+-rw-r--r--    1 indacode   indacode        19358 Nov  9 05:29 example.html
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:30 font
+-rw-r--r--    1 indacode   indacode        31045 Nov  9 05:29 genericons.css

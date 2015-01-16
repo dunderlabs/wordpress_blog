@@ -1,0 +1,10 @@
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:37 .
+drwxr-xr-x   11 indacode   indacode         4096 Nov  9 05:37 ..
+-rw-r--r--    1 indacode   indacode        15969 Nov  9 05:36 handlers.js
+-rw-r--r--    1 indacode   indacode        10467 Nov  9 05:36 handlers.min.js
+-rw-r--r--    1 indacode   indacode        17987 Nov  9 05:37 license.txt
+-rw-r--r--    1 indacode   indacode        28902 Nov  9 05:36 plupload.flash.swf
+-rw-r--r--    1 indacode   indacode       108163 Nov  9 05:37 plupload.full.min.js
+-rw-r--r--    1 indacode   indacode        62535 Nov  9 05:37 plupload.silverlight.xap
+-rw-r--r--    1 indacode   indacode        10560 Nov  9 05:37 wp-plupload.js
+-rw-r--r--    1 indacode   indacode         4896 Nov  9 05:37 wp-plupload.min.js

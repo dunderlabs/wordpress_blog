@@ -1,0 +1,13 @@
+drwxr-xr-x    7 indacode   indacode         4096 Nov  9 05:38 .
+drwxr-xr-x   11 indacode   indacode         4096 Nov  9 05:37 ..
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:37 langs
+-rw-r--r--    1 indacode   indacode        26427 Nov  9 05:37 license.txt
+drwxr-xr-x   22 indacode   indacode         4096 Nov  9 05:38 plugins
+drwxr-xr-x    4 indacode   indacode         4096 Nov  9 05:38 skins
+drwxr-xr-x    3 indacode   indacode         4096 Nov  9 05:38 themes
+-rw-r--r--    1 indacode   indacode        14965 Nov  9 05:37 tiny_mce_popup.js
+-rw-r--r--    1 indacode   indacode       301201 Nov  9 05:37 tinymce.min.js
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:37 utils
+-rw-r--r--    1 indacode   indacode         4899 Nov  9 05:37 wp-mce-help.php
+-rw-r--r--    1 indacode   indacode       134760 Nov 22 03:42 wp-tinymce.js.gz
+-rw-r--r--    1 indacode   indacode         1128 Nov  9 05:37 wp-tinymce.php

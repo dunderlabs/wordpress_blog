@@ -1,0 +1,11 @@
+drwxr-xr-x    5 indacode   indacode         4096 Nov  9 05:29 .
+drwxr-xr-x    8 indacode   indacode         4096 Nov  9 06:23 ..
+-rw-r--r--    1 indacode   indacode         8154 Nov  9 05:29 add-style.php
+-rw-r--r--    1 indacode   indacode         1659 Nov  9 05:29 add-widgets.php
+drwxr-xr-x    4 indacode   indacode         4096 Nov  9 05:30 admin
+-rw-r--r--    1 indacode   indacode        13265 Nov  9 06:09 core.php
+-rw-r--r--    1 indacode   indacode          499 Nov  9 05:29 metaboxes-fields.php
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:29 post-formats
+-rw-r--r--    1 indacode   indacode          609 Nov  9 05:29 post-formats.php
+-rw-r--r--    1 indacode   indacode         3014 Nov  9 05:29 register-metaboxes.php
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:29 widgets

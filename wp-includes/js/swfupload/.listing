@@ -1,0 +1,8 @@
+drwxr-xr-x    3 indacode   indacode         4096 Nov  9 05:37 .
+drwxr-xr-x   11 indacode   indacode         4096 Nov  9 05:37 ..
+-rw-r--r--    1 indacode   indacode        12655 Nov  9 05:35 handlers.js
+-rw-r--r--    1 indacode   indacode         8867 Nov  9 05:35 handlers.min.js
+-rw-r--r--    1 indacode   indacode         1540 Nov  9 05:35 license.txt
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:37 plugins
+-rw-r--r--    1 indacode   indacode        37691 Nov  9 05:35 swfupload.js
+-rw-r--r--    1 indacode   indacode        13133 Nov  9 05:35 swfupload.swf

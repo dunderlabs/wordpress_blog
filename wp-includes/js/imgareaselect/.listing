@@ -1,0 +1,7 @@
+drwxr-xr-x    2 indacode   indacode         4096 Nov  9 05:35 .
+drwxr-xr-x   11 indacode   indacode         4096 Nov  9 05:37 ..
+-rw-r--r--    1 indacode   indacode          178 Nov  9 05:35 border-anim-h.gif
+-rw-r--r--    1 indacode   indacode          178 Nov  9 05:35 border-anim-v.gif
+-rw-r--r--    1 indacode   indacode          790 Nov  9 05:35 imgareaselect.css
+-rw-r--r--    1 indacode   indacode        37069 Nov  9 05:35 jquery.imgareaselect.js
+-rw-r--r--    1 indacode   indacode        13881 Nov  9 05:36 jquery.imgareaselect.min.js
