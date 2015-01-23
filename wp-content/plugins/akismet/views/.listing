@@ -1,8 +1,0 @@
-drwxr-xr-x    2 indacode   indacode         4096 Jan 15 17:44 .
-drwxr-xr-x    4 indacode   indacode         4096 Jan 15 17:44 ..
--rw-r--r--    1 indacode   indacode         8904 Jan 15 17:44 config.php
--rw-r--r--    1 indacode   indacode          505 Jan 15 17:44 get.php
--rw-r--r--    1 indacode   indacode         9912 Jan 15 17:44 notice.php
--rw-r--r--    1 indacode   indacode         6521 Jan 15 17:44 start.php
--rw-r--r--    1 indacode   indacode          551 Jan 15 17:44 stats.php
--rw-r--r--    1 indacode   indacode          830 Jan 15 17:44 strict.php
