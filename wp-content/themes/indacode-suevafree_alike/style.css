@@ -25,7 +25,7 @@ blockquote,
 td, 
 th,
 .textwidget { 
-	font-size:14px; 
+	font-size:16px; 
 	line-height:1.8em;
 	font-family:'Abel',Verdana, Geneva, sans-serif; 
 	font-weight: normal;
@@ -49,7 +49,16 @@ dl,
 ul,
 ol { 
 	margin:0.8em 0 0.3em;
-}   
+}
+
+ul, ol {
+	padding: 5px 0 10px !important;
+}
+
+ul li {
+	margin-bottom: 5px;
+}
+
 h1.title,
 h2.title,
 h3.title,
@@ -963,7 +972,8 @@ article blockquote p {
 	font-family: 'Abel',Verdana, Geneva, sans-serif;
 	width:230px;
 }
-.entry-info.viewcomments { 
+.entry-info.viewcomments {
+	font-size: 15px;
 	width:450px;
 }
 
