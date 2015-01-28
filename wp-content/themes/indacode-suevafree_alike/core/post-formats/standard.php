@@ -5,7 +5,7 @@
 	if ( has_post_thumbnail() ) : ?>
         
 		<div class="pin-container">
-			<?php the_post_thumbnail('blog'); ?>
+			<?php //the_post_thumbnail('blog'); ?>
         </div>
         
 <?php 

@@ -2,9 +2,7 @@
 		
 	if ( has_post_thumbnail() ) { ?>
         
-		 <div class="pin-container">
-			<?php the_post_thumbnail('blog'); ?>
-		</div>
+		 <div class="pin-container"></div>
         
 <?php } ?>
     
